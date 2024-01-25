@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 95vh;
+    background-color: grey;
+}
+.container{
+    background-color: #fff;
+    border-radius: 1rem;
+    padding: 2rem;
+    min-height: 45vh;
+    min-width: 40vh;
+}
