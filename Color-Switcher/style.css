@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+span{
+    display: block;
+}
+.canvas{
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+.box{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+} 
+#grey{
+    background-color: grey;
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#purple{
+    background-color: purple;
+}
