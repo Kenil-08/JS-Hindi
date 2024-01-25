@@ -1,0 +1,25 @@
+body{
+    background-color:dimgray;
+    min-height: 95vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    background-color: antiquewhite;
+    min-height: 50vh;
+    min-width: 45vh;
+    padding: 3rem;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 0.75rem;
+}
+#guessNum{
+    font-size: 1.25rem;
+    border-radius: 0.35rem;
+    padding-left: 0.25rem;
+}
+#btn{
+    font-size: 0.9rem;
+    border-radius: 0.25rem;
+}
